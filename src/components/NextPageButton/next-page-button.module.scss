@@ -1,0 +1,9 @@
+.nextPageButton {
+  color: var(--color-highlight);
+  font-size: 1.125rem;
+  font-weight: 600;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
